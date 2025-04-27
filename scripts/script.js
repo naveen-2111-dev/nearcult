@@ -6,3 +6,4 @@ fetch("templates/index.html")
   .catch((error) => {
     console.error("Error loading template:", error);
   });
+
